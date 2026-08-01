@@ -18,7 +18,7 @@ The workflow collection is being added progressively.
 
 ### Image Generation
 
-- ImageFactory
+- [ImageFactory](https://github.com/anishpandit007/FisherKing-ImageFactory) — Model-agnostic T2I productivity workflow
 - Krea
 - Flux.2 Klein
 - ZiT
