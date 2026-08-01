@@ -21,7 +21,7 @@ The workflow collection is being added progressively.
 - [ImageFactory](https://github.com/anishpandit007/FisherKing-ImageFactory) — Model-agnostic T2I productivity workflow
 - [Krea2](https://github.com/anishpandit007/FisherKing-Krea2) — Krea2 T2I and identity-edit reference workflows
 - [Flux.2 Klein](https://github.com/anishpandit007/FisherKing-Flux2Klein) — Flux.2 Klein reference and character utility workflows
-- ZiT
+- [ZiT](https://github.com/anishpandit007/FisherKing-ZiT) — ZiT T2I and guided I2I reference workflows
 - Anima
 - Illustrious
 - Ideogram
