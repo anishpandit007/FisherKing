@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> **Repository Consolidated**
+>
+> The FisherKing workflow collection has moved to the
+> [FisherKing Series](https://github.com/anishpandit007/FisherKing-Series) repository.
+>
+> All current and future FisherKing ComfyUI workflows are now maintained there.
+>
+> This repository is retained for historical links and references and is no longer maintained.
+> 
 # FisherKing Series
 
 A collection of ComfyUI workflows, reference implementations, and productivity tools for image and video generation.
