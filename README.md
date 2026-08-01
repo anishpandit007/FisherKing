@@ -1,4 +1,4 @@
-# FisherKing
+# FisherKing Series
 
 A collection of ComfyUI workflows, reference implementations, and productivity tools for image and video generation.
 
